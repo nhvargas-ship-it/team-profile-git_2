@@ -1,0 +1,9 @@
+Equipo de Desarrollo
+
+Integrantes:
+1. Nicolas
+2. Raphael
+
+
+Proyecto:
+Aplicación de perfiles del equipo
